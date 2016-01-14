@@ -3,3 +3,4 @@ git is a distributed version control system
 hhhh~
 2016年01月12日11:55:52
 
+Creating a new branch is quick.
